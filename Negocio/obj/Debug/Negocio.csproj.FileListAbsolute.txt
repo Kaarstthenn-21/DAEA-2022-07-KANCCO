@@ -1,0 +1,9 @@
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\bin\Debug\Negocio.dll
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\bin\Debug\Negocio.pdb
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\bin\Debug\Datos.dll
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\bin\Debug\Datos.pdb
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\obj\Debug\Negocio.dll
+C:\Users\KAARSTTHENN\source\repos\Lab07\Negocio\obj\Debug\Negocio.pdb
